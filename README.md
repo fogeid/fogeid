@@ -14,6 +14,10 @@ My name is Diego Batista, Computer Science student and Web Developer Jr.
 - :blue_heart: Techs: NodeJS, VueJS, Quasar Framework, among others.
 - :books: Studying all layers in software development :heart:
 
+## My Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=fogeid&show_icons=true&hide_border=true)
+
 > :octocat: [fogeid.github.io](https://fogeid.github.io)
 
 ---
