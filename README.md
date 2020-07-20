@@ -14,7 +14,7 @@ My name is Diego Batista, Computer Science student and Web Developer Jr.
 - :blue_heart: Techs: NodeJS, VueJS, Quasar Framework, among others.
 - :books: Studying all layers in Software Development and Open Source :heart:
 
-**Languages:**
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
