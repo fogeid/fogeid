@@ -8,7 +8,7 @@
 
 ## Hi! 👋
 
-My name is Diego Batista, Computer Science student and Web Developer Jr.
+My name is Diego Batista, a Computer Science student at the Universidade Federal de Mato Grosso - UFMT and Web developer Jr.
 
 - :office_worker: 
 - :blue_heart: Techs: NodeJS, VueJS, Quasar Framework, among others.
