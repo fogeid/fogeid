@@ -34,6 +34,7 @@ My name is Diego Batista, a Computer Science student at the Universidade Federal
 ## My Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fogeid&show_icons=true&hide_border=true)
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=fogeid&hide=html&layout=compac -->
 
 > :octocat: [fogeid.github.io](https://fogeid.github.io)
 
