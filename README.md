@@ -14,7 +14,7 @@ My name is Diego Batista, a Computer Science student at the Universidade Federal
 <!---
 - :office_worker: [Enext Consultoria](http://enext.com.br/)
 -->
-- :blue_heart: Techs: Java, ReactJS, VueJS among others.
+- :blue_heart: Techs: Java, Kotlin, ReactJS, among others.
 - :books: Studying all layers in Software Development and Open Source :heart:
 
 **Languages and Tools:**
