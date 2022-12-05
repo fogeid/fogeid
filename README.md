@@ -10,7 +10,7 @@
 
 ## Hi! 👋
 
-My name is Diego Batista, a Computer Science student at the Universidade Federal de Mato Grosso - UFMT and Software Developer at Zup Innovation.
+My name is Diego Batista, a Computer Science student at the Universidade Federal de Mato Grosso - UFMT and Software Developer at SIS Consultoria.
 <!---
 - :office_worker: [Enext Consultoria](http://enext.com.br/)
 -->
