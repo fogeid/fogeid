@@ -10,7 +10,7 @@
 
 ## Hi! 👋
 
-My name is Diego Batista, a Computer Science student at the Universidade Federal de Mato Grosso - UFMT and Software Developer at SIS Consultoria.
+My name is Diego Batista, and I'm a Software Developer at SIS Consultoria.
 <!---
 - :office_worker: [Enext Consultoria](http://enext.com.br/)
 -->
