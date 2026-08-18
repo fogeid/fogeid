@@ -1,46 +1,46 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=fogeid.README.md)
+# Diego Batista
 
-# :man_technologist: Diego Batista
+**Software Engineer · Backend Engineering · Software Architecture**
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fogeid)](https://github.com/fogeid)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dbatista/)](https://www.linkedin.com/in/dbatista/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fuckingfogeid)](https://twitter.com/fuckingfogeid)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565992697045&text=Olá!)](https://api.whatsapp.com/send?phone=5565992697045&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batista.diego@protonmail.com)](mailto:batista.diego@protonmail.com)
+I design and build scalable backend systems, distributed architectures and integration solutions using primarily **Java, Spring Boot and cloud-native technologies**.
 
-## Hi! 👋
+Currently working with software architecture and development projects involving **microservices, legacy modernization, interoperability, CI/CD, observability and cloud infrastructure**.
 
-My name is Diego Batista, and I'm a Software Engineer at SEFAZ/MT.
-<!---
-- :office_worker: [Enext Consultoria](http://enext.com.br/)
--->
-- :blue_heart: Techs: Java, Kotlin, ReactJS, among others.
-- :books: Studying all layers in Software Development and Open Source :heart:
+## Engineering Focus
 
-**Languages and Tools:**
+```text
+Backend Engineering       Java · Spring Boot · Spring Security · Hibernate
+Architecture              Microservices · Distributed Systems · REST APIs
+Integration               Kafka · X-Road · System Interoperability
+Infrastructure            Docker · Kubernetes · GCP
+CI/CD                     GitLab CI · Jenkins
+Observability             Grafana · Zabbix · Dynatrace · Graylog
+Databases                 PostgreSQL · Oracle
+Frontend                  React · Angular · JavaScript
+```
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+## What I work on
 
-## My Stats
+My engineering work typically involves:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=fogeid&show_icons=true&hide_border=true)
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=fogeid&hide=html&layout=compac -->
+* Designing and implementing **REST APIs and microservices**
+* Defining architectures for **distributed systems**
+* Modernizing and integrating **legacy applications**
+* Designing interoperability solutions between organizations and systems
+* Building and improving **CI/CD pipelines**
+* Deploying applications using **Docker and Kubernetes**
+* Implementing **observability and monitoring**
+* Reviewing code and defining engineering standards
+* Translating business requirements into technical solutions
 
-> :octocat: [fogeid.github.io](https://fogeid.github.io)
+## Technologies
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,docker,kubernetes,kafka,postgres,git,gitlab,jenkins,gcp,grafana,react,angular&perline=14" />
+</p>
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Batista-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/dbatista/)
+[![GitHub](https://img.shields.io/badge/GitHub-fogeid-181717?style=flat-square\&logo=github)](https://github.com/fogeid)
+[![Email](https://img.shields.io/badge/Email-batista.diego%40protonmail.com-6D4AFF?style=flat-square\&logo=protonmail\&logoColor=white)](mailto:batista.diego@protonmail.com)
