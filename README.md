@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=fogeid.README.md)
+
 # Diego Batista
 
 **Software Engineer · Backend Engineering · Software Architecture**
